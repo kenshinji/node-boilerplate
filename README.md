@@ -9,4 +9,4 @@
 - [ ] LICENSE.txt(MIT by default)
 - [ ] /src
 - [ ] /test
-- [ ].travis.yml
+- [ ] .travis.yml
