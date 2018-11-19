@@ -1,5 +1,5 @@
 describe('A template for writing test', () => {
-  it('test for nothing', () => {
+	it('test for nothing', () => {
 
-  })
+	})
 })

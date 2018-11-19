@@ -3,10 +3,11 @@
 ## It should include items as following
 
 - [x] README.md
-- [ ] .gitignore
-- [ ] .eslintrc.json
-- [ ] package.json
-- [ ] LICENSE.txt(MIT by default)
-- [ ] /src
-- [ ] /test
-- [ ] .travis.yml
+- [x] .gitignore
+- [x] .eslintrc.json
+- [x] package.json
+- [x] LICENSE.txt(MIT by default)
+- [x] /src
+- [x] /test
+- [x] .travis.yml
+- [x] .eslintignore

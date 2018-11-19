@@ -1,3 +1,16 @@
 {
-    "extends": "standard"
+    "extends": "standard",
+    "parserOptions": {
+        "ecmaFeatures":{
+	  "globalReturn": true
+	}
+    },
+    "rules":{
+	"indent": [2, "tab"],
+    "no-tabs": 0,
+    "no-useless-escape": 0
+    },
+      "env": {
+	      "mocha":true
+      }
 }
